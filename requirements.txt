@@ -1,0 +1,4 @@
+tls-client
+beautifulsoup4
+curl-cffi
+colorama

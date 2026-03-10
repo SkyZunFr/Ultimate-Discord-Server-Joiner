@@ -1,0 +1,14 @@
+{
+    "max_captcha_before_ban": 3000,
+    "delay_between_joins_min": 86400,
+    "delay_between_joins_max": 95000,
+    "use_proxy": true,
+    "proxy_rotation": true,
+    "retry_on_failure": true,
+    "max_retries": 5,
+    "bypass_onboarding": true,
+    "bypass_rules": true,
+    "bypass_restorecord": true,
+    "timeout": 300,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"
+}
